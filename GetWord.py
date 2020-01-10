@@ -14,7 +14,8 @@ class GetWord():
                 line=line.strip('\n')
                 wordList = line.split(" ")
                 for i in range(0, len(wordList)):
-                    getVocie.down(wordList[i])
+                    getVocie.down(wordList[i],0)
+                    getVocie.down(wordList[i],1)
         finally:
             file_object.close()
         
