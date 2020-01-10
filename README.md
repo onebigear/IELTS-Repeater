@@ -51,6 +51,6 @@ GetVoice通过传入一个单词，检查本地是否有缓存记录，没有就
 
 ## **Contact Me**
 
-* Wechat：chenfangzhou001
+* WeChat：chenfangzhou001
 * QQ：    935562189
 * Email:  cfz1885@gmail.com
