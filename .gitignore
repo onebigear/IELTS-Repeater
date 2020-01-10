@@ -1,0 +1,13 @@
+/target/
+GenerateList.py
+GetVoice.py
+GetWord.py
+README.md
+Speech_US/
+__pycache__/
+newWordList.txt
+run.py
+words.txt
+.gitignore
+Dictation.py
+requirements.txt
