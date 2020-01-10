@@ -41,7 +41,8 @@ class youdao():
     def getAccent(self):
         return self._type
 
-    def down(self, word):
+    def down(self, word, accent):
+        self.setAccent(accent)
         word = word.lower()
         tmp = self._getWordMp3FilePath(word)
         if tmp is None:
@@ -50,7 +51,7 @@ class youdao():
             print('%s.mp3 done' % self._word)
         else:
             print('%s.mp3 exist, no need to download' % self._word)
-
+        
         return self._filePath
 
     def _getURL(self):
