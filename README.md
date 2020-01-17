@@ -6,8 +6,8 @@
 
 ## **Environment**
 
-Python  3.7.4
-conda   4.7.12
+`Python  3.7.4`
+`conda   4.7.12`
 
 ## **Install and run**
 
