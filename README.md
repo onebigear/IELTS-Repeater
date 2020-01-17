@@ -61,8 +61,12 @@ GetVoice通过传入一个单词，检查本地是否有缓存记录，没有就
 * Email:  cfz1885@gmail.com
 
 ## **Change Log**
+* 2020年1月17日
+    - 修复跨平台路径问题
+    - 修复依赖库问题
+    `By Steve X`
 
 * 2020年1月10日 
-  ① 创建IELTS Repeater
-  ② 更新随机口音功能
-  By *Alexwell*
+    - 创建IELTS Repeater
+    - 更新随机口音功能
+    `By Alexwell`
